@@ -1,0 +1,1 @@
+../motionSolvers/displacement/pointSmoothing/pointSmoothers/equipotentialPointSmoother/equipotentialPointSmoother.C

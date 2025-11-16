@@ -1,0 +1,1 @@
+../fields/faPatchFields/derived/ignore/ignoreFaPatchField.C
