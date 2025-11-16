@@ -1,0 +1,1 @@
+../solidBodyMotionFunctions/rotatingMotion/rotatingMotion.C
