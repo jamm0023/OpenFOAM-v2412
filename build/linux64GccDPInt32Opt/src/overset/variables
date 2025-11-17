@@ -1,0 +1,2 @@
+oversetFvMesh = oversetFvMesh
+LIB = $(FOAM_LIBBIN)/liboverset

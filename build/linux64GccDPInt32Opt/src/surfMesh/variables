@@ -1,0 +1,4 @@
+surfaceFormats = surfaceFormats
+readers = readers
+writers = writers
+LIB = $(FOAM_LIBBIN)/libsurfMesh

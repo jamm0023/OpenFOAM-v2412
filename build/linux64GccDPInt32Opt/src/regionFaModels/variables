@@ -1,0 +1,2 @@
+kinematic = liquidFilm/subModels/kinematic
+LIB = $(FOAM_LIBBIN)/libregionFaModels

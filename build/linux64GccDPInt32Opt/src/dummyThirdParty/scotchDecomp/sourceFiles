@@ -1,0 +1,4 @@
+SOURCE = \
+dummyScotchDecomp.cxx \
+
+# sources

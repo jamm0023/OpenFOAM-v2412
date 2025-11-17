@@ -1,0 +1,3 @@
+# Build/configure parameters
+-- ParaView_DIR=
+-- -DCMAKE_INSTALL_PREFIX=/home/joseangel/OpenFOAM/OpenFOAM-v2412/platforms/linux64GccDPInt32Opt

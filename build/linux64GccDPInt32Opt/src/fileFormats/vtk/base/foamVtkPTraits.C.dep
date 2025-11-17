@@ -1,0 +1,6 @@
+$(OBJECTS_DIR)/vtk/base/foamVtkPTraits.C.dep: \
+vtk/base/foamVtkPTraits.C \
+vtk/base/foamVtkPTraits.H \
+$(WM_PROJECT_DIR)/src/OpenFOAM/lnInclude/foamEndianFwd.H \
+
+#END

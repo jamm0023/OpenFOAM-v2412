@@ -1,0 +1,7 @@
+enrichedPatch = slidingInterface/enrichedPatch
+polyMeshModifier = polyTopoChange/polyMeshModifier
+hexRef8 = polyTopoChange/polyTopoChange/hexRef8
+meshModifiers = meshCut/meshModifiers
+pointSmoothing = motionSolvers/displacement/pointSmoothing
+pointSmoothers = $(pointSmoothing)/pointSmoothers
+LIB = $(FOAM_LIBBIN)/libdynamicMesh

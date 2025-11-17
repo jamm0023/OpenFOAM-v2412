@@ -1,0 +1,8 @@
+SOURCE = \
+fusedGaussLaplacianSchemes.C \
+fusedLeastSquaresGrads.C \
+fusedGaussDivSchemes.C \
+fusedGaussConvectionSchemes.C \
+fusedGaussGrads.C \
+
+# sources

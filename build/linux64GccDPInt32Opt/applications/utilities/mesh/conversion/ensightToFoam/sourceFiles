@@ -1,0 +1,5 @@
+SOURCE = \
+ensightMeshReader.C \
+ensightToFoam.C \
+
+# sources

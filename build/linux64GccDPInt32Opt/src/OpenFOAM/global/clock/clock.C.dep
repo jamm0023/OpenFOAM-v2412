@@ -1,0 +1,5 @@
+$(OBJECTS_DIR)/global/clock/clock.C.dep: \
+global/clock/clock.C \
+global/clock/clock.H \
+
+#END

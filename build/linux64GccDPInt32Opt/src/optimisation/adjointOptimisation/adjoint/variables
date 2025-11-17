@@ -1,0 +1,7 @@
+NURBS=parameterization/NURBS
+NURBS3D=$(NURBS)/NURBS3DVolume
+updateMethod=optimisation/updateMethod
+topOVars=optimisation/designVariables/topODesignVariables
+levelSetVars=optimisation/designVariables/levelSet
+shapeVars=optimisation/designVariables/shape
+LIB = $(FOAM_LIBBIN)/libadjointOptimisation
